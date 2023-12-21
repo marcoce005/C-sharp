@@ -1,0 +1,12 @@
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\verifica\Lista-Spesa\bin\Debug\Lista-Spesa.exe.config
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\verifica\Lista-Spesa\bin\Debug\Lista-Spesa.exe
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\verifica\Lista-Spesa\bin\Debug\Lista-Spesa.pdb
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\verifica\Lista-Spesa\obj\Debug\Lista-Spesa.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\verifica\Lista-Spesa\obj\Debug\Lista-Spesa.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\verifica\Lista-Spesa\obj\Debug\Lista_Spesa.Login.resources
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\verifica\Lista-Spesa\obj\Debug\Lista_Spesa.Properties.Resources.resources
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\verifica\Lista-Spesa\obj\Debug\Lista-Spesa.csproj.GenerateResource.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\verifica\Lista-Spesa\obj\Debug\Lista-Spesa.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\verifica\Lista-Spesa\obj\Debug\Lista-Spesa.exe
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\verifica\Lista-Spesa\obj\Debug\Lista-Spesa.pdb
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\verifica\Lista-Spesa\obj\Debug\Lista_Spesa.Lista.resources

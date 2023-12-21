@@ -1,0 +1,11 @@
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\forms\Forms\obj\Debug\Forms.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\forms\Forms\obj\Debug\Forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\forms\Forms\obj\Debug\Forms.Form1.resources
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\forms\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\forms\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\forms\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\forms\Forms\bin\Debug\Forms.exe.config
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\forms\Forms\bin\Debug\Forms.exe
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\forms\Forms\bin\Debug\Forms.pdb
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\forms\Forms\obj\Debug\Forms.exe
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\forms\Forms\obj\Debug\Forms.pdb

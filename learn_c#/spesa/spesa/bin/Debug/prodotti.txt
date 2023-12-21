@@ -1,0 +1,10 @@
+Prosciutto Cotto;3
+Prosciutto Crudo;5
+Mortadella;2,5
+Brasaola;10
+Affettati misti;9
+Salame;5
+Olive taggiasche;7
+Olive greche;6
+Alici sotto olio;11
+Pomodori secchi;13

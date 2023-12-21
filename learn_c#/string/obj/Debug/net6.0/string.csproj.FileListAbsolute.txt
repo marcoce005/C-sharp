@@ -1,0 +1,15 @@
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/string/bin/Debug/net6.0/string
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/string/bin/Debug/net6.0/string.deps.json
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/string/bin/Debug/net6.0/string.runtimeconfig.json
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/string/bin/Debug/net6.0/string.dll
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/string/bin/Debug/net6.0/ref/string.dll
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/string/bin/Debug/net6.0/string.pdb
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/string/obj/Debug/net6.0/string.csproj.AssemblyReference.cache
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/string/obj/Debug/net6.0/string.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/string/obj/Debug/net6.0/string.AssemblyInfoInputs.cache
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/string/obj/Debug/net6.0/string.AssemblyInfo.cs
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/string/obj/Debug/net6.0/string.csproj.CoreCompileInputs.cache
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/string/obj/Debug/net6.0/string.dll
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/string/obj/Debug/net6.0/ref/string.dll
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/string/obj/Debug/net6.0/string.pdb
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/string/obj/Debug/net6.0/string.genruntimeconfig.cache

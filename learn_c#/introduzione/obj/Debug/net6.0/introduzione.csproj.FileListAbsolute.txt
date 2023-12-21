@@ -1,0 +1,15 @@
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/introduzione/bin/Debug/net6.0/introduzione
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/introduzione/bin/Debug/net6.0/introduzione.deps.json
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/introduzione/bin/Debug/net6.0/introduzione.runtimeconfig.json
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/introduzione/bin/Debug/net6.0/introduzione.dll
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/introduzione/bin/Debug/net6.0/ref/introduzione.dll
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/introduzione/bin/Debug/net6.0/introduzione.pdb
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/introduzione/obj/Debug/net6.0/introduzione.csproj.AssemblyReference.cache
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/introduzione/obj/Debug/net6.0/introduzione.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/introduzione/obj/Debug/net6.0/introduzione.AssemblyInfoInputs.cache
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/introduzione/obj/Debug/net6.0/introduzione.AssemblyInfo.cs
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/introduzione/obj/Debug/net6.0/introduzione.csproj.CoreCompileInputs.cache
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/introduzione/obj/Debug/net6.0/introduzione.dll
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/introduzione/obj/Debug/net6.0/ref/introduzione.dll
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/introduzione/obj/Debug/net6.0/introduzione.pdb
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/introduzione/obj/Debug/net6.0/introduzione.genruntimeconfig.cache

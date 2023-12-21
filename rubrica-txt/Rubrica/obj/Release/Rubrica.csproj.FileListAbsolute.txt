@@ -1,0 +1,15 @@
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica-txt\Rubrica\bin\Release\Rubrica.exe.config
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica-txt\Rubrica\bin\Release\Rubrica.exe
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica-txt\Rubrica\bin\Release\Rubrica.pdb
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica-txt\Rubrica\obj\Release\Rubrica.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica-txt\Rubrica\obj\Release\Rubrica.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica-txt\Rubrica\obj\Release\Rubrica.Aggiuni.resources
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica-txt\Rubrica\obj\Release\Rubrica.Cerca.resources
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica-txt\Rubrica\obj\Release\Rubrica.Elimina.resources
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica-txt\Rubrica\obj\Release\Rubrica.Home.resources
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica-txt\Rubrica\obj\Release\Rubrica.Modifica.resources
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica-txt\Rubrica\obj\Release\Rubrica.Properties.Resources.resources
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica-txt\Rubrica\obj\Release\Rubrica.csproj.GenerateResource.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica-txt\Rubrica\obj\Release\Rubrica.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica-txt\Rubrica\obj\Release\Rubrica.exe
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica-txt\Rubrica\obj\Release\Rubrica.pdb

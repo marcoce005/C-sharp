@@ -1,0 +1,6 @@
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica\Griglia\bin\Debug\Griglia.dll
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica\Griglia\bin\Debug\Griglia.pdb
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica\Griglia\obj\Debug\Griglia.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica\Griglia\obj\Debug\Griglia.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica\Griglia\obj\Debug\Griglia.dll
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica\Griglia\obj\Debug\Griglia.pdb

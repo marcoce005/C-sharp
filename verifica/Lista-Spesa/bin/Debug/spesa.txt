@@ -1,0 +1,16 @@
+Pasta,2euro,50kg
+Farina,1euro,60kg
+Zucchero,2euro,80kg
+Sale,1euro,100kg
+Caffè,8euro,10kg
+Biscotti,3euro,60kg
+Riso,2euro,40kg
+Pane,6euro,30kg
+Patate,2euro,20kg
+Latte parzialmente scremato,2euro,50l
+Latte intero,2euro,50l
+Yogurt magro,2euro,50l
+Yogurt greco,2euro,50l
+Ricotta,1euro,5kg
+Parmigiano reggiano,23euro,5kg
+Uova,3euro,120

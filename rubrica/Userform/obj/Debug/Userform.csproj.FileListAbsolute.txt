@@ -1,0 +1,8 @@
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica\Userform\bin\Debug\Userform.dll
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica\Userform\bin\Debug\Userform.pdb
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica\Userform\obj\Debug\Userform.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica\Userform\obj\Debug\Userform.UserControl1.resources
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica\Userform\obj\Debug\Userform.csproj.GenerateResource.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica\Userform\obj\Debug\Userform.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica\Userform\obj\Debug\Userform.dll
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica\Userform\obj\Debug\Userform.pdb

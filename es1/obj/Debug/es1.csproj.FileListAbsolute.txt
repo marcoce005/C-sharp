@@ -1,0 +1,12 @@
+C:\Users\marco\Documents\Marco\Informatica\C#\es1\bin\Debug\es1.exe.config
+C:\Users\marco\Documents\Marco\Informatica\C#\es1\bin\Debug\es1.exe
+C:\Users\marco\Documents\Marco\Informatica\C#\es1\bin\Debug\es1.pdb
+C:\Users\marco\Documents\Marco\Informatica\C#\es1\obj\Debug\es1.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\Marco\Informatica\C#\es1\obj\Debug\es1.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\Documents\Marco\Informatica\C#\es1\obj\Debug\es1.Form1.resources
+C:\Users\marco\Documents\Marco\Informatica\C#\es1\obj\Debug\es1.Properties.Resources.resources
+C:\Users\marco\Documents\Marco\Informatica\C#\es1\obj\Debug\es1.csproj.GenerateResource.cache
+C:\Users\marco\Documents\Marco\Informatica\C#\es1\obj\Debug\es1.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Marco\Informatica\C#\es1\obj\Debug\es1.exe
+C:\Users\marco\Documents\Marco\Informatica\C#\es1\obj\Debug\es1.pdb
+C:\Users\marco\Documents\Marco\Informatica\C#\es1\obj\Debug\es1.Pagina2.resources

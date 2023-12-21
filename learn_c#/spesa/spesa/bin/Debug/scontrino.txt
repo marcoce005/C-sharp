@@ -1,0 +1,7 @@
+Scontrino lista della spesa
+-----------------------------------------
+Mortadella		2,5€ * 3
+Olive taggiasche		7€ * 1
+
+-----------------------------------------
+Totale		14,5€

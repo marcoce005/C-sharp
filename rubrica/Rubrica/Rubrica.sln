@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rubrica", "Rubrica.csproj", "{B11A453B-26E8-401B-BF57-07731B07323D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Griglia", "..\Griglia\Griglia.csproj", "{F96BD348-431E-4012-9FDB-DE5E84767B90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileWatcher", "..\FileWatcher\FileWatcher.csproj", "{EF35ABDB-36FF-40E4-9D3D-3239920DBDCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B11A453B-26E8-401B-BF57-07731B07323D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11A453B-26E8-401B-BF57-07731B07323D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B11A453B-26E8-401B-BF57-07731B07323D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B11A453B-26E8-401B-BF57-07731B07323D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F96BD348-431E-4012-9FDB-DE5E84767B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96BD348-431E-4012-9FDB-DE5E84767B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96BD348-431E-4012-9FDB-DE5E84767B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96BD348-431E-4012-9FDB-DE5E84767B90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF35ABDB-36FF-40E4-9D3D-3239920DBDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF35ABDB-36FF-40E4-9D3D-3239920DBDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF35ABDB-36FF-40E4-9D3D-3239920DBDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF35ABDB-36FF-40E4-9D3D-3239920DBDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3328BCA-B509-482E-BE98-3E7E15880189}
+	EndGlobalSection
+EndGlobal

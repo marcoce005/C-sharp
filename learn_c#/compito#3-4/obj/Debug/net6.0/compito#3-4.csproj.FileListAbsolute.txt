@@ -1,0 +1,15 @@
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/compito#3-4/bin/Debug/net6.0/compito#3-4
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/compito#3-4/bin/Debug/net6.0/compito#3-4.deps.json
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/compito#3-4/bin/Debug/net6.0/compito#3-4.runtimeconfig.json
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/compito#3-4/bin/Debug/net6.0/compito#3-4.dll
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/compito#3-4/bin/Debug/net6.0/ref/compito#3-4.dll
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/compito#3-4/bin/Debug/net6.0/compito#3-4.pdb
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/compito#3-4/obj/Debug/net6.0/compito#3-4.csproj.AssemblyReference.cache
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/compito#3-4/obj/Debug/net6.0/compito#3-4.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/compito#3-4/obj/Debug/net6.0/compito#3-4.AssemblyInfoInputs.cache
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/compito#3-4/obj/Debug/net6.0/compito#3-4.AssemblyInfo.cs
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/compito#3-4/obj/Debug/net6.0/compito#3-4.csproj.CoreCompileInputs.cache
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/compito#3-4/obj/Debug/net6.0/compito#3-4.dll
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/compito#3-4/obj/Debug/net6.0/ref/compito#3-4.dll
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/compito#3-4/obj/Debug/net6.0/compito#3-4.pdb
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/compito#3-4/obj/Debug/net6.0/compito#3-4.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\CodiceFiscale\bin\Debug\CodiceFiscale.exe.config
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\CodiceFiscale\bin\Debug\CodiceFiscale.exe
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\CodiceFiscale\bin\Debug\CodiceFiscale.pdb
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\CodiceFiscale\obj\Debug\CodiceFiscale.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\CodiceFiscale\obj\Debug\CodiceFiscale.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\CodiceFiscale\obj\Debug\CodiceFiscale.CodF.resources
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\CodiceFiscale\obj\Debug\CodiceFiscale.Properties.Resources.resources
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\CodiceFiscale\obj\Debug\CodiceFiscale.csproj.GenerateResource.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\CodiceFiscale\obj\Debug\CodiceFiscale.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\CodiceFiscale\obj\Debug\CodiceFiscale.exe
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\CodiceFiscale\obj\Debug\CodiceFiscale.pdb

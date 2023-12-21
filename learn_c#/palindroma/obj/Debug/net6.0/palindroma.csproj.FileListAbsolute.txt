@@ -1,0 +1,15 @@
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/palindroma/bin/Debug/net6.0/palindroma
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/palindroma/bin/Debug/net6.0/palindroma.deps.json
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/palindroma/bin/Debug/net6.0/palindroma.runtimeconfig.json
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/palindroma/bin/Debug/net6.0/palindroma.dll
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/palindroma/bin/Debug/net6.0/ref/palindroma.dll
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/palindroma/bin/Debug/net6.0/palindroma.pdb
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/palindroma/obj/Debug/net6.0/palindroma.csproj.AssemblyReference.cache
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/palindroma/obj/Debug/net6.0/palindroma.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/palindroma/obj/Debug/net6.0/palindroma.AssemblyInfoInputs.cache
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/palindroma/obj/Debug/net6.0/palindroma.AssemblyInfo.cs
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/palindroma/obj/Debug/net6.0/palindroma.csproj.CoreCompileInputs.cache
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/palindroma/obj/Debug/net6.0/palindroma.dll
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/palindroma/obj/Debug/net6.0/ref/palindroma.dll
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/palindroma/obj/Debug/net6.0/palindroma.pdb
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/palindroma/obj/Debug/net6.0/palindroma.genruntimeconfig.cache

@@ -1,0 +1,2 @@
+gino@pippo.it;qwe123;100000
+pippo@gino.com;1234;1

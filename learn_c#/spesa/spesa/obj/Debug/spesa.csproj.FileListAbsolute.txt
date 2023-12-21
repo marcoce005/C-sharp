@@ -1,0 +1,11 @@
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\spesa\spesa\bin\Debug\spesa.exe.config
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\spesa\spesa\bin\Debug\spesa.exe
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\spesa\spesa\bin\Debug\spesa.pdb
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\spesa\spesa\obj\Debug\spesa.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\spesa\spesa\obj\Debug\spesa.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\spesa\spesa\obj\Debug\spesa.Form1.resources
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\spesa\spesa\obj\Debug\spesa.Properties.Resources.resources
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\spesa\spesa\obj\Debug\spesa.csproj.GenerateResource.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\spesa\spesa\obj\Debug\spesa.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\spesa\spesa\obj\Debug\spesa.exe
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\spesa\spesa\obj\Debug\spesa.pdb

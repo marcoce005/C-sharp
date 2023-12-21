@@ -1,0 +1,9 @@
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica\FileWatcher\bin\Debug\FileWatcher.dll
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica\FileWatcher\bin\Debug\FileWatcher.pdb
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica\FileWatcher\bin\Debug\Griglia.dll
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica\FileWatcher\bin\Debug\Griglia.pdb
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica\FileWatcher\obj\Debug\FileWatcher.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica\FileWatcher\obj\Debug\FileWatcher.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica\FileWatcher\obj\Debug\FileWatcher.csproj.CopyComplete
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica\FileWatcher\obj\Debug\FileWatcher.dll
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\rubrica\FileWatcher\obj\Debug\FileWatcher.pdb

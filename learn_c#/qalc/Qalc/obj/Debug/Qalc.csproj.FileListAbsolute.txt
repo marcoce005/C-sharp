@@ -1,0 +1,11 @@
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\qalc\Qalc\bin\Debug\Qalc.exe.config
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\qalc\Qalc\bin\Debug\Qalc.exe
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\qalc\Qalc\bin\Debug\Qalc.pdb
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\qalc\Qalc\obj\Debug\Qalc.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\qalc\Qalc\obj\Debug\Qalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\qalc\Qalc\obj\Debug\Qalc.Qalc.resources
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\qalc\Qalc\obj\Debug\Qalc.Properties.Resources.resources
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\qalc\Qalc\obj\Debug\Qalc.csproj.GenerateResource.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\qalc\Qalc\obj\Debug\Qalc.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\qalc\Qalc\obj\Debug\Qalc.exe
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\qalc\Qalc\obj\Debug\Qalc.pdb

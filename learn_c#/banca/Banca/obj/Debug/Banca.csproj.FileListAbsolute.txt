@@ -1,0 +1,12 @@
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\banca\Banca\bin\Debug\Banca.exe.config
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\banca\Banca\bin\Debug\Banca.exe
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\banca\Banca\bin\Debug\Banca.pdb
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\banca\Banca\obj\Debug\Banca.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\banca\Banca\obj\Debug\Banca.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\banca\Banca\obj\Debug\Banca.Properties.Resources.resources
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\banca\Banca\obj\Debug\Banca.csproj.GenerateResource.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\banca\Banca\obj\Debug\Banca.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\banca\Banca\obj\Debug\Banca.exe
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\banca\Banca\obj\Debug\Banca.pdb
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\banca\Banca\obj\Debug\Banca.Login.resources
+C:\Users\marco\Documents\Marco\GitHub_privato\MarcoCellini\C#\learn_c#\banca\Banca\obj\Debug\Banca.Home.resources

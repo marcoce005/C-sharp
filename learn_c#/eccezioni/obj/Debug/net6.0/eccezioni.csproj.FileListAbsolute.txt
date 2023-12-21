@@ -1,0 +1,15 @@
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/eccezioni/bin/Debug/net6.0/eccezioni
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/eccezioni/bin/Debug/net6.0/eccezioni.deps.json
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/eccezioni/bin/Debug/net6.0/eccezioni.runtimeconfig.json
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/eccezioni/bin/Debug/net6.0/eccezioni.dll
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/eccezioni/bin/Debug/net6.0/ref/eccezioni.dll
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/eccezioni/bin/Debug/net6.0/eccezioni.pdb
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/eccezioni/obj/Debug/net6.0/eccezioni.csproj.AssemblyReference.cache
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/eccezioni/obj/Debug/net6.0/eccezioni.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/eccezioni/obj/Debug/net6.0/eccezioni.AssemblyInfoInputs.cache
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/eccezioni/obj/Debug/net6.0/eccezioni.AssemblyInfo.cs
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/eccezioni/obj/Debug/net6.0/eccezioni.csproj.CoreCompileInputs.cache
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/eccezioni/obj/Debug/net6.0/eccezioni.dll
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/eccezioni/obj/Debug/net6.0/ref/eccezioni.dll
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/eccezioni/obj/Debug/net6.0/eccezioni.pdb
+/home/marco/Documenti/MarcoCellini/C#/learn_c#/eccezioni/obj/Debug/net6.0/eccezioni.genruntimeconfig.cache
